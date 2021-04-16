@@ -1,4 +1,3 @@
-baseURL = "http://example.org/"
 DefaultContentLanguage = "en" # Theme's display language, supports: en, fr, zh, zh-hant
 languageCode = "it"
 title = "Pachino & Politica"
